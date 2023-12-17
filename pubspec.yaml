@@ -8,7 +8,7 @@ environment:
 
 dependencies:
   aqueduct: ^3.2.1
-  http:
+  http: any
 
 dev_dependencies:
   test: ^1.0.0
